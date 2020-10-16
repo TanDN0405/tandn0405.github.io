@@ -1,0 +1,84 @@
+.container{
+	width:1280px;
+	margin:0 auto;
+}
+.clearfix{
+	overflow:hidden;
+}
+.tt{
+	width:40%;
+	float:left;
+}
+.gia-sp{
+	width:100%;
+	float:left;
+}
+
+.gia-a{
+	width:35%;
+	padding:50px 0;
+	background:#b300b3;
+	float:left;
+}
+.gia-b{
+	width:30%;
+	padding:50px 0;
+	background:#ff3;
+	float:left;
+}
+.gia-c{
+	width:35%;
+	padding:50px 0;
+	background:#b300b3;
+	float:left;
+}
+.ten{
+	width:100%;
+	padding:50px 0;
+	background:#00abff;
+	float:left;
+}
+.tem-a{
+	width:15%;
+	background:#f0f;
+	padding:100px 0;
+	float:left;
+}
+.tem-b{
+	width:15%;
+	background:#ffb3ff;
+	padding:100px 0;
+	float:left;
+}
+.danh-sach1{
+	width:15%;
+	float:left;
+}
+.danh-sach1-a{
+	width:100%;
+	padding:50px 0;
+	background:#145b66;
+	float:left;	
+}
+.danh-sach1-b{
+	width:100%;
+	padding:50px 0;
+	background:#f0f;
+	float:left;
+}
+.danh-sach2{
+	width:15%;
+	float:left;
+}
+.danh-sach2-a{
+	width:100%;
+	padding:50px 0;
+	background:#b79922;
+	float:left;
+}
+.danh-sach2-b{
+	width:100%;
+	padding:50px 0;
+	background:#890a9b;
+	float:left;
+}

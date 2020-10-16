@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head lang="en">
+		<title>Fodd Ban</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="wed.css">
+		
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<div class="content clearfix">
+					<div class="item-b"></div>
+					<div class="item-c"></div>
+				</div>
+				<div class="content clearfix">
+					<div class="item-a"></div>
+					<div class="item-e"></div>
+					<div class="item-r"></div>
+					<div class="item-t"></div>
+					<div class="item-y"></div>
+					
+				</div>
+			</div>
+		</header>
+	</body>
+</html>

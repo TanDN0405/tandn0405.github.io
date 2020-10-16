@@ -1,0 +1,179 @@
+.container{
+	width:1280px;
+	margin:0 auto;
+}
+.clearfix{
+	overflow:hidden;
+}
+/* phan dau */
+.toph-a{
+	width:25%;
+	padding:50px 0;
+	background:#f0f;
+	float:left;
+}
+.toph-b{
+	width:40%;
+	padding:50px 0;
+	background: #ff5500;
+	float:left;
+}
+.toph-c{
+	width:20%;
+	padding:50px 0;
+	background:#f0f;
+	float:left;
+}
+.toph-d{
+	width:15%;
+	padding:50px 0;
+	background: #ff5500;
+	float:left;
+}
+
+.bottom-h{
+	width:10%;
+	float:left;
+	background:#f30;
+	padding:25px 0;
+}
+/* het phan dau */
+/* phan than */
+.left-content{
+	width:15%;
+	float:left;
+}
+.lc-a{
+	padding:450px 0;
+	background:#ff4dd2;
+}
+.lc-b{
+	padding:450px 0;
+	background:#66004d;
+}
+.center-content{
+	width:55%;
+	float:left;
+}
+.left-topbottom{
+	width:35%;
+	float:left;
+}
+.left-tbb{
+	padding:300px 0;
+	background:#3333ff;
+}
+.left-tb{
+	padding:300px 0;
+	background:#db4dff;
+}
+.right-topbottom{
+	width:65%;
+	float:left;
+}
+.right-t{
+	padding:300px 0;
+	background:#ffcc00;
+}
+.rba{
+	padding:100px 0;
+	background:#66ff1a;
+}
+.rbb{
+	padding:100px 0;
+	background:#666600;
+}
+.rbc{
+	padding:100px 0;
+	background:#404040;
+}
+.bottom-center-content{
+	width:100%;
+	float:left;
+}
+.bottom-ca{
+	padding:100px 0;
+	background:#ff8000;
+}
+.bottom-cb{
+	padding:100px 0;
+	background:#cc0052;
+}
+.bottom-cc{
+	padding:100px 0;
+	background:#ff8000;
+}
+.right-content{
+	width:30%;
+	float:left;
+}
+.ii{
+	padding:100px 0;
+	background:#ffff1a;
+}
+.iie{
+	padding:100px 0;
+	background:#1aff8c;
+}
+.iii{
+	padding:300px 0;
+	background:#d2ff4d;
+}
+.iiie{
+	padding:300px 0;
+	background:#ff1a1a;
+}
+.tpe-a{
+	width:35%;
+	padding:150px 0;
+	background:#006600;
+	float:left;
+}
+.tpe-b{
+	width:30%;
+	padding:150px 0;
+	background:#0080ff;
+	float:left;
+}
+.tpe-c{
+	width:35%;
+	padding:150px 0;
+	background:#006600;
+	float:left;
+}
+.st{
+	width:40%;
+	float:left;
+}
+.tye-a{
+	width:25%;
+	float:left;
+}
+.tey-e{
+	padding:100%
+	background:#f0f;
+}
+.tey-b{
+	width:40%;
+	float:left;
+}
+.tey-b-top{
+	width:100%;
+	padding:150px 0;
+	background:#cc0000;
+	float:left;
+}
+.tey-bottom{
+	padding:150px 0;
+	width:12.5%;
+	background:#e600e6;
+	float:left;
+}
+.tey-c{
+	width:35%;
+	float:left;
+}
+.tey-left{
+	padding:100px 0;
+	background:#f0f;
+}

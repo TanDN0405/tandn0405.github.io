@@ -81,18 +81,23 @@ header{
 	background:#663366;
 }
 .traw{
-	margin:62px 422px 144px 423px;
+	margin:50px 422px 144px 423px;
 	background:#ff6633;
 	border-radius:5px;
 	display:inline-block;
 }
 .btn{
-	padding:25px 82px 25px 82px;
+	padding:26px 82px 24px 82px;
 	color:#fff; 
 	text-decoration:none;
 	font-size:1.125rem;
 	text-align:center;
 	display:inline-block;
+}
+.traw{
+}
+.btn:hover{
+	background:#eb564b;
 }
 /*End Header*/
 /* start mani */
@@ -105,13 +110,14 @@ header{
 	text-align:center;
 }
 .logo-top{
-	padding:0px 333px;
+	/* padding:0px 333px 21px  333px */
 	font-size:2.5rem;
 	line-height:1.87rem;
+	text-align:center;
 	
 }
 .logo-bottom{
-	padding:47px 268px 77px 268px;
+	padding:21px 268px 77px 268px;
 	font-size:1.125rem;
 	line-height:1.625rem;
 }
@@ -121,19 +127,19 @@ header{
 	text-align:center;
  }
 .imgleft{
-	padding:0px 47px 129px 53px;
+	padding:0px 47px 127px 53px;
 	float:left;
 }
 .imgcenter-a{
-	padding:0px 62px 129px 45px;
+	padding:0px 62px 127px 45px;
 	float:left;
 }
 .imgcenter-b{
-	padding:0px 51px 129px 34px;
+	padding:0px 51px 127px 34px;
 	float:left;
 }
 .imgright{
-	padding:0px 37.95px 129px 53px;
+	padding:0px 37.95px 127px 53px;
 	float:left;
 }
 .texl-i{
@@ -184,6 +190,17 @@ header{
 	margin:78px 40px 126px 50px;
 	text-align:center;
 	float:left;
+}
+.love{
+	text-direction:none;
+	
+}
+.icon-a{
+	font-size: 2rem;
+	color:#ccc;
+}
+.fab fa-twitter{
+	color:#ccc;
 }
 .intro-a{
 	border-radius: 50%;
@@ -294,7 +311,7 @@ center-c{
 }
 .nav-d{
 	list-style:none;
-	padding:46px 10px 63px 381px;
+	margin:46px 10px 63px 381px;
 	float:left;
 }
 .item-center-d{
@@ -302,6 +319,8 @@ center-c{
 	display:inline-block;
 	padding-top:9px;
 	padding-bottom:8px;
+	padding-left:20px;
+	padding-right:20px;
 	text-align:center;
 	
 }
@@ -309,8 +328,7 @@ center-c{
 	background:#fff;
 	text-align:center;
 	font-size:1.125rem;
-	width: 45px;
-	height: 19px;
+	
 	
 }
 .nav-center-d:first-child{
@@ -465,7 +483,8 @@ footer{
 	float:left;
 	width:48%;
 	border-radius:3px;
-	position:relative:
+	position:relative;
+	border:none;
 }
 .footer-center-bottom{
 	float:left;
@@ -475,6 +494,7 @@ footer{
 }
 .footer-bottom{
 	margin:30px 25px;
+	border:none;
 }
 .poi{
 	padding:30px 45px 56px 45px;
@@ -497,6 +517,9 @@ footer{
 	padding:15px 25px;
 	border-radius:5px;
 }
+.floo:hover{
+	background:#272971;
+}
 .footer-bottom-a{
 	margin:25px 422px 115px 423px;
 	background:#33ccff;
@@ -515,6 +538,9 @@ footer{
 	background:#333399;
 	padding-top:43px;
 }
+.footer-texl-a:hover{
+	background:#336fff;
+}
 .tahu{
 	float:left;
 	display:inline-block;
@@ -528,9 +554,9 @@ footer{
 	text-decoration:none
 }
 .tahu-a:hover{
-	background:#336f99;
+	color:#336f99;
 }
-..footer-bottom-a:hover{
+.footer-bottom-a:hover{
 	background:#0b6482;
 }
 .tpl{

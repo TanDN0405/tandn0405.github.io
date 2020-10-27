@@ -1,0 +1,87 @@
+/* header .container-fluid{ */
+	/* background:#fff; */
+	
+/* } */
+/* header .container{ */
+	/* width:1140px; */
+	/* margin:0 auto; */
+	/* background:#fff; */
+/* } */
+/* .seach{ */
+	/* padding-top:84px; */
+	/* border:none; */
+	/* float:left; */
+/* } */
+/* .ion-seach{ */
+	/* padding-top:84px; */
+	/* float:left; */
+/* } */
+/* .logo{ */
+	/* text-align:center; */
+	/* padding-top:52px; */
+/* } */
+/* a{ */
+	/* font-family:roboto; */
+/* } */
+
+.search{
+	padding-top:84px;
+}
+.logo{
+	padding-top:52px;
+}
+.item{
+	padding:67px 0 27px 0;
+}
+.item-a{
+	color:#000;
+	
+	font-family:roboto;
+	letter-spacing
+}
+.item-a:hover{
+	color:#8ed1b7;
+	text-decoration:underline;
+}
+.icon{
+	padding-top:62px;
+	padding-bottom:136px;
+
+}
+.asw{
+	padding-right:0;
+	padding-left:129px;
+}
+.item-b{
+	color:#000;
+}
+.icon-shopping{
+	height:24px;
+	width:32px;
+	position: relative;
+}
+.shopping{
+	position: absolute;
+	top:3px;
+	bottom:9px;
+	left:22px;
+	width:16px;
+	height:15px;
+	background:#000;
+	color:#fff;
+	border-radius:9px;
+}
+/* end header */
+section .container-fluid{
+	background:#99cccc;
+}
+.hiah{
+	padding-top:176px;
+	font-family: 'Alex Brush', cursive;
+	font-size:4.56rem;
+}
+.texl-top{
+	font-family: 'Roboto', sans-serif;
+	padding-left:18px;
+	font-size:1.43rem;
+}

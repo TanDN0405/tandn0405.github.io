@@ -35,9 +35,9 @@
 }
 .item-a{
 	color:#000;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
 	
-	font-family:roboto;
-	letter-spacing
 }
 .item-a:hover{
 	color:#8ed1b7;
@@ -73,15 +73,71 @@
 }
 /* end header */
 section .container-fluid{
-	background:#99cccc;
+	background:url(img-bt/img.jpeg);
 }
 .hiah{
 	padding-top:176px;
 	font-family: 'Alex Brush', cursive;
 	font-size:4.56rem;
+	font-weight:400;
 }
 .texl-top{
 	font-family: 'Roboto', sans-serif;
 	padding-left:18px;
 	font-size:1.43rem;
+	font-weight:100;
+}
+.section-center{
+	font-size:4.5rem;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight:400;
+}
+.texl-center{
+	font-size:1.5rem;
+	font-family: 'Roboto', sans-serif;
+	font-weight:100;
+	vertical-align:top;
+}
+.texl-bottom{
+	font-family: 'Roboto', sans-serif;
+	font-weight:300;
+	text-decoration:underline;
+	padding-bottom:192px;
+}
+.lala{
+	color:#000;
+}
+/* end section */
+/* start footer */
+.item-c:hover{
+	color:#cbcac1;
+}
+.item-c{
+	color:#000;
+	font-family: 'Roboto', sans-serif;
+	font-size:0.6875rem;
+	text-transform: uppercase;
+	padding-top:57px;
+	padding-bottom:24px;
+}
+.seach-a{
+	padding-top:62px;
+}
+.product {
+	padding-top:73px;
+}
+.icon-img{
+	padding-top:25px;
+}
+.icon-img-a{
+	padding-top:35px;
+}
+.product-a{
+	padding-top:82px;
+}
+.bg{
+	background:#fefefe;
+}
+.tour{
+	 text-decoration: line-through;
 }

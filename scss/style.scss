@@ -1,0 +1,114 @@
+@import 'css/code';
+$prinmary_1:#112344;
+$prinmary_2:#a2bsd3;
+$prinmary_3:#a2bsd3;
+$fontfamily: Helvetica, sans-serif;
+$font-size:18px;
+$prinmary_4:#fff85;
+@use"sass:map";
+$theme-color:(
+	"success":#fff,
+	"info":#f0f,
+);
+.seal{
+	color: map-get($theme-color,"info");
+}
+.main-a{
+	background-color: $prinmary_3;
+}
+.main-r{
+	background-color: $prinmary_3;
+}
+nav{
+	ul{
+		margin:0;
+		list-style-type:none;
+		li{
+			display:inline-block;
+			a{
+				text-decoration:none;
+			}
+		}
+	}
+}
+.main-b{
+	font-style: $fontfamily;
+}
+.main-c{
+	font-size:$font-size;
+}
+.main-d{
+	background-color:$prinmary_4;
+}
+ul>{
+	li{
+		color:red;
+	}
+}
+a>{
+	p{
+		color:red;
+	}
+}
+ul{
+	~{
+		span{
+			color:#fff2;
+		}
+		a{
+			color:#fff2;
+			&:hover{
+				color:#f0f;
+			}
+		}
+	}
+}
+.item{
+	$size:1000px;
+	height:$size;
+	width:$size;
+	border-radius:$size/2;
+	&-copy{
+		background-color:#fff;
+	}
+}
+/*Placeholder selector*/
+	.info:hover, %important-info{
+	background:#fff;
+	}
+span{
+			color:#fff2;
+		}
+%how{
+	box-sizing:border-box;
+	padding:10px 0;
+	width:100%;
+	&:hover{
+		background:#000;
+	}
+}
+.a{
+	@extend %how;
+	color:#97789;
+}
+.b{
+	@extend %how;
+}
+.h{
+	@extend %how;
+	color:#97789;
+}
+@import 'css/lists';
+
+@function pow($base, $exponent) {
+  $result: 1;
+  @for $_ from 1 through $exponent {
+    $result: $result * $base;
+  }
+  @return $result;
+}
+
+.sidebar {
+  float: left;
+  margin-left: pow(4, 3) * 1px;
+}

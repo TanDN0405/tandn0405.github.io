@@ -2,7 +2,7 @@
 	margin:0;
 	padding:0;
 }
-.search{
+.sea{
 	padding-top:84px;
 }
 .logo{
@@ -51,14 +51,22 @@
 	border-radius:9px;
 }
 /* end header */
-.tt{
-	background:url(img-bt/img.jpeg);
+.slie{
+	top: 270px;
+	position: absolute;
+}
+.slie-boss{
+	position: relative;
 }
 .hiah{
 	padding-top:176px;
 	font-family: 'Alex Brush', cursive;
 	font-size:4.56rem;
 	font-weight:400;
+}
+.img-shox{
+	width:100%;
+	height:700px
 }
 .texl-top{
 	font-family: 'Roboto', sans-serif;

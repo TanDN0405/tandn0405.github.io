@@ -1,0 +1,128 @@
+	<div id="menu1" class="container tab-pane fade"><br>
+							<div class="col-sm-3 flex-column bg text-center">
+								<div>
+									<i class="fas fa-bars"></i>
+								</div>
+								<div>
+									<i class="far fa-heart icon-img"></i>
+								</div>
+								<div>
+									<i class="fas fa-bars"></i>
+								</div>
+							</div>
+							<div class="col-sm-9 bg">
+								<div class="img-sp-a">
+									<img src="img-sp/hope-diamond.jpg" class="img-sp" alt="dinosaurs">
+									<div class="hot">
+										<p class="badge">Hot</p>
+									</div>
+								</div>
+								<div class="texl-center">
+									<h3>Hope Diamond</h3>
+								</div>
+								<div class="seal">
+									<p><span class="tour">$1116500</span> $1113500</p>
+								</div>
+								<hr  width="100%" size="1px" color="#e9e9e9"/>
+								<div class="shopping-footer">
+									<a class="" href="#"><i class="fas fa-shopping-cart"> Add To cart</i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<hr  width="100%" size="1px" color="#e9e9e9"/>
+					<div class="row">
+						<div class="product d-flex">
+							<div class="col-sm-4 d-flex">
+								<div class="col-sm-3 flex-column bg text-center">
+									<div>
+										<i class="fas fa-bars"></i>
+									</div>
+									<div>
+										<i class="far fa-heart icon-img"></i>
+									</div>
+									<div>
+										<i class="fas fa-bars"></i>
+									</div>
+								</div>
+								<div class="col-sm-9 bg">
+									<div class="img-sp-a">
+										<img src="img-sp/hope-diamond.jpg" class="img-sp" alt="dinosaurs">
+										<div class="hot">
+											<p class="badge">Hot</p>
+										</div>
+									</div>
+									<div class="texl-center">
+										<h3>Hope Diamond</h3>
+									</div>
+									<div class="seal">
+										<p><span class="tour">$1116500</span> $1113500</p>
+									</div>
+									<hr  width="100%" size="1px" color="#e9e9e9"/>
+									<div class="shopping-footer">
+										<a class="" href="#"><i class="fas fa-shopping-cart"> Add To cart</i></a>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-4 d-flex">
+								<div class="col-sm-3 flex-column bg text-center">
+									<div>
+										<i class="fas fa-bars"></i>
+									</div>
+									<div>
+										<i class="far fa-heart icon-img"></i>
+									</div>
+									<div>
+										<i class="fas fa-bars"></i>
+									</div>
+								</div>
+								<div class="col-sm-9 bg">
+									<div class="img-sp-a">
+										<img src="img-sp/moussaieff.jpeg" class="img-sp" alt="mammoth">
+										<div class="hot">
+											<p class="badge">Hot</p>
+										</div>
+									</div>
+									<div class="texl-center">
+										<h3>Moussaieff</h3>
+									</div>
+									<div class="seal">
+										<p><span class="tour">$100600</span> $100300</p>
+									</div>
+									<hr  width="100%" size="1px" color="#e9e9e9"/>
+									<div class="shopping-footer">
+										<a class="" href="#"><i class="fas fa-shopping-cart"> Add To cart</i></a>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-4 d-flex">
+								<div class="col-sm-3 flex-column bg text-center">
+									<div>
+										<i class="fas fa-bars"></i>
+									</div>
+									<div>
+										<i class="far fa-heart icon-img"></i>
+									</div>
+									<div>
+										<i class="fas fa-bars"></i>
+									</div>
+								</div>
+								<div class="col-sm-9 bg">
+									<div class="img-sp-a">
+										<img src="img-sp/oppenheimer-blue.jpg" class="img-sp" alt="oppenheimer-blue">
+									</div>
+									<div class="texl-center">
+										<h3>Oppenheimer Blue</h3>
+									</div>
+									<div class="seal">
+										<p><span class="tour">$65.00</span> $35.00</p>
+									</div>
+									<hr  width="100%" size="1px" color="#e9e9e9"/>
+									<div class="shopping-footer">
+										<a class="" href="#"><i class="fas fa-shopping-cart"> Add To cart</i></a>
+									</div>
+								</div>
+							</div>
+						
+						</div>
+					</div>
